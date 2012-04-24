@@ -5,3 +5,4 @@ test bisect 1
 5
 work on debug2
 work on debug3
+debug3 1
