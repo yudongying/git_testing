@@ -6,3 +6,4 @@ test bisect 1
 work on debug2
 work on head
 head 1
+head 2
