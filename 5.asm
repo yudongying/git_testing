@@ -6,3 +6,4 @@ test bisect 1
 work on debug2
 work on debug3
 debug3 1
+debug3 2
