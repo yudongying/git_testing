@@ -18,3 +18,5 @@ debug3 3
 debug3 4
 
 test revert
+test check for modification
+test restore
